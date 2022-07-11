@@ -1,1 +1,1 @@
-var returnUP = {"vid": "13.4.19", "purl": "https://www.bilibili.com/blackboard/html5mobileplayer.html?aid=26663367&bvid=BV15s411H7Wz&cid=45864037&page=1&posterFirst=1:237", "ourl": "http://jx.inetgeek.cn"};
+var returnUP = {"vid": "13.4.19", "purl": "https://www.iqiyi.com/v_15q2xytrr88.html?vfrm=pcw_dianying&vfrmblk=F&vfrmrst=711219_dianying_zxsx_pic_play3", "ourl": "http://jx.inetgeek.cn"};
