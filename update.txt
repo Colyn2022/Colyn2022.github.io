@@ -1,1 +1,1 @@
-var returnUP = {"vid": "13.4.18", "url": "http://jx.inetgeek.cn", "admin": "Colyn"};
+var returnUP = {"vid": "13.4.19", "url": "http://jx.inetgeek.cn", "admin": "Colyn"};
