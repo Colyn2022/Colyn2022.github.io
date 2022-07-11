@@ -1,0 +1,1 @@
+var returnUP = {"vid": "2.0.0", "url": "http://jx.inetgeek.cn", "admin": "Colyn"};
