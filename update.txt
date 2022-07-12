@@ -1,1 +1,1 @@
-var returnUP = {"vid": "13.4.19", "purl": "https://www.iqiyi.com/v_19rqv721o4.html", "ourl": "http://jx.inetgeek.cn"};
+var returnUP = {"vid": "13.4.18", "purl": "https://www.iqiyi.com/v_19rqv721o4.html", "ourl": "http://jx.inetgeek.cn"};
