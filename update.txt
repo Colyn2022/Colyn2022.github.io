@@ -1,1 +1,1 @@
-var returnUP = {"aid": "1.1", "wid": "1.0", "purl": "https://www.iqiyi.com/v_19rqv721o4.html", "ourl": "http://jx.inetgeek.cn"};
+var returnUP = {"aid": "1.1", "wid": "1.1", "purl": "https://www.iqiyi.com/v_19rqv721o4.html", "ourl": "http://jx.inetgeek.cn"};
